@@ -939,7 +939,6 @@ namespace метки
             SendToBack();
         }
 
-
         public void i()
         {
             SetStyle(ControlStyles.OptimizedDoubleBuffer | ControlStyles.AllPaintingInWmPaint
